@@ -10,7 +10,7 @@ Enginner?
 * ⚡  Lern about life
 
 <a href="https://www.github.com/SuperNutboy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SuperNutboy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/SuperNutboy?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
 
 ### Skills
 
@@ -41,6 +41,6 @@ src="https://img.shields.io/github/followers/SuperNutboy?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SuperNutboy"><img src="https://github-readme-stats.vercel.app/api?username=SuperNutboy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SuperNutboy's GitHub stats" /></a>
+<a href="http://www.github.com/SuperNutboy"><img src="https://github-readme-stats.vercel.app/api?username=SuperNutboy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="SuperNutboy's GitHub stats" /></a>
 
-<a href="http://www.github.com/SuperNutboy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperNutboy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/SuperNutboy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperNutboy&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
